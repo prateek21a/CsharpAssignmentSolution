@@ -1,0 +1,15 @@
+C:\Users\Jaiswalp\source\repos\Assignment_no._1\Assignment_no._1\obj\Debug\net6.0\Assignments.csproj.AssemblyReference.cache
+C:\Users\Jaiswalp\source\repos\Assignment_no._1\Assignment_no._1\obj\Debug\net6.0\Assignments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaiswalp\source\repos\Assignment_no._1\Assignment_no._1\obj\Debug\net6.0\Assignments.AssemblyInfoInputs.cache
+C:\Users\Jaiswalp\source\repos\Assignment_no._1\Assignment_no._1\obj\Debug\net6.0\Assignments.AssemblyInfo.cs
+C:\Users\Jaiswalp\source\repos\Assignment_no._1\Assignment_no._1\obj\Debug\net6.0\Assignments.csproj.CoreCompileInputs.cache
+C:\Users\Jaiswalp\source\repos\Assignment_no._1\Assignment_no._1\bin\Debug\net6.0\Assignments.exe
+C:\Users\Jaiswalp\source\repos\Assignment_no._1\Assignment_no._1\bin\Debug\net6.0\Assignments.deps.json
+C:\Users\Jaiswalp\source\repos\Assignment_no._1\Assignment_no._1\bin\Debug\net6.0\Assignments.runtimeconfig.json
+C:\Users\Jaiswalp\source\repos\Assignment_no._1\Assignment_no._1\bin\Debug\net6.0\Assignments.dll
+C:\Users\Jaiswalp\source\repos\Assignment_no._1\Assignment_no._1\bin\Debug\net6.0\Assignments.pdb
+C:\Users\Jaiswalp\source\repos\Assignment_no._1\Assignment_no._1\obj\Debug\net6.0\Assignments.dll
+C:\Users\Jaiswalp\source\repos\Assignment_no._1\Assignment_no._1\obj\Debug\net6.0\refint\Assignments.dll
+C:\Users\Jaiswalp\source\repos\Assignment_no._1\Assignment_no._1\obj\Debug\net6.0\Assignments.pdb
+C:\Users\Jaiswalp\source\repos\Assignment_no._1\Assignment_no._1\obj\Debug\net6.0\Assignments.genruntimeconfig.cache
+C:\Users\Jaiswalp\source\repos\Assignment_no._1\Assignment_no._1\obj\Debug\net6.0\ref\Assignments.dll
